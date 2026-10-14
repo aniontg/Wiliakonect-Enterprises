@@ -1,0 +1,6 @@
+{
+  "name": "Wiliakonect — Technology for What’s Next",
+  "description": "Wiliakonect helps businesses grow with people-first technology, digital experiences, software systems, and dependable IT support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
